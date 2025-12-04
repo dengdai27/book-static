@@ -1,0 +1,12 @@
+<svg width="96" height="64" viewBox="0 0 96 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="walletGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffdd9a"/>
+      <stop offset="100%" stop-color="#ff8a3b"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="8" width="88" height="48" rx="14" fill="url(#walletGradient)"/>
+  <rect x="48" y="22" width="32" height="20" rx="8" fill="#fff" opacity="0.8"/>
+  <circle cx="58" cy="32" r="4" fill="#ff8a3b"/>
+</svg>
+

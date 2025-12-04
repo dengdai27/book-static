@@ -1,0 +1,18 @@
+<svg width="96" height="80" viewBox="0 0 96 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="warehouseRoof" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffd2a3"/>
+      <stop offset="100%" stop-color="#ff8a3b"/>
+    </linearGradient>
+    <linearGradient id="warehouseBody" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#fff4e6"/>
+      <stop offset="100%" stop-color="#ffcfa0"/>
+    </linearGradient>
+  </defs>
+  <path d="M6 40L48 8l42 32v34H6z" fill="url(#warehouseRoof)"/>
+  <rect x="14" y="40" width="68" height="28" rx="6" fill="url(#warehouseBody)"/>
+  <rect x="24" y="48" width="12" height="12" rx="3" fill="#ff8a3b" opacity="0.8"/>
+  <rect x="42" y="48" width="12" height="12" rx="3" fill="#ff8a3b" opacity="0.8"/>
+  <rect x="60" y="48" width="12" height="12" rx="3" fill="#ff8a3b" opacity="0.8"/>
+</svg>
+
